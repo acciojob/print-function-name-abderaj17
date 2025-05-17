@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function itsABFun() {
+function functionName() {
 	alert(arguments.callee.name);
 }
-itsABFun();
+functionName();
